@@ -12,4 +12,4 @@ limit 5;
 select last_name, store_id from customer
 where store_id = 1
 order by last_name DESC
-limit 4;
+limit 4;    
